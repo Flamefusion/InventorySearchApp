@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InventorySearchApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "InventorySearchApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
